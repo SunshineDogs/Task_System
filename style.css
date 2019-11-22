@@ -1,0 +1,56 @@
+
+ul, ol {margin: 0;}
+p {margin: 0;}
+html{
+   font-family: 'Roboto Slab', serif;
+   font-size: 100%;
+
+}
+.we2{ border: 2px solid #4242A6;
+  border-radius: 25px;
+background:#C0C0FF;
+margin-bottom:10%;
+margin-right:20%;
+margin-top:2%;
+margin-left:20%;
+
+padding-bottom:4%;
+padding-right:5%;
+padding-top:1%;
+padding-left:5%;
+}
+
+body{
+font-family: 'Roboto Slab', serif;
+font-size: 100%;
+   background-image: url(led.jpg);
+min-width: 1548px;
+width: 100%;
+height: 100%;
+margin: 0;
+}
+
+
+
+.dance3{
+ 
+  overflow: auto;
+   border: 2px solid #4242A6;
+  border-radius: 25px;
+  background:#ADA7FF; 
+  margin-bottom: 2px;
+}
+
+
+@media only screen and (max-width : 480px) {
+
+.we{border-radius: 6px;}
+ 
+  
+body{
+  min-width: auto;
+  width:auto;
+}}
+
+
+
